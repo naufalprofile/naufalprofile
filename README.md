@@ -1,4 +1,4 @@
-### Hi, I'm Ahmad Naufal Ramdhani 👋
+Hi, I'm Ahmad Naufal Ramdhani 👋
 
 I'm a Junior Front End Developer.
 
