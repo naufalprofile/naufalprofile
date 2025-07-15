@@ -1,6 +1,6 @@
 Hi, I'm Ahmad Naufal Ramdhani 👋
 
-I'm a Junior Front End Developer.
+I'm Front End Developer.
 
 - 🔭 I'm currently working on a personal portfolio website.
 - 🌱 I'm currently learning Next JS.
